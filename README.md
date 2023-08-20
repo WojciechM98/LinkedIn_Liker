@@ -13,3 +13,5 @@ Module **gmail** has a class **GmailBot**. This class contans three functions. F
 Executive module is responsible for chrome automation using Selenium webdriver. **Login_to_inkedin** function in class **LinkHandling** gets data created with **search_for_links**. Before use the LinkedIn name and password need to be added to .env file.
 
 ### Make sure to have the same version of selenium webdriver as your chrome browser version downloaded and placed in *webdriver* folder
+
+Project still in progress.
