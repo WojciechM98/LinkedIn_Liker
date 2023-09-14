@@ -1,5 +1,5 @@
 # LinkedIn_Liker
-Python based app to help you don't forget to like your coworker linkedin posts :D
+A Python-based application that will help you remember to like your colleague's posts on links :D
 
 ## How does this app works
 LinkedIn_Liker contains two modules:
