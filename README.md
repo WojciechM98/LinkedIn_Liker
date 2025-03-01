@@ -1,5 +1,5 @@
 # LinkedIn_Liker
-A Python-based application that will help you remember to like your colleague's posts on links :D
+A Python-based script that will help you to like your colleague's posts on LinkedIn :D
 
 ## How does this app works
 LinkedIn_Liker contains two modules:
@@ -14,4 +14,3 @@ Executive module is responsible for chrome automation using Selenium webdriver. 
 
 ### Make sure to have the same version of selenium webdriver as your chrome browser version downloaded and placed in *webdriver* folder
 
-Project still in progress.
